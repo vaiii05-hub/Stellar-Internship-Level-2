@@ -13,25 +13,25 @@ A decentralized on-chain voting application built on the **Stellar Testnet** usi
 ## 📸 Screenshots
 
 ### UI
-![UI](public/Level%202%20SS/UI.png.png)
+![UI](frontend/public/Level%202%20SS/UI.png.png)
 
 ### Freighter Wallet Connection
-![Freighter Wallet Connection](public/Level%202%20SS/Frieghter%20Wallet%20Connection.png.png)
+![Freighter Wallet Connection](frontend/public/Level%202%20SS/Frieghter%20Wallet%20Connection.png.png)
 
 ### Freighter Transaction Confirmation
-![Freighter Confirmation](public/Level%202%20SS/Frieghter%20Confirmation.png.png)
+![Freighter Confirmation](frontend/public/Level%202%20SS/Frieghter%20Confirmation.png.png)
 
 ### Freighter Vote Result
-![Freighter Result](public/Level%202%20SS/Frieghter%20Result.png.png)
+![Freighter Result](frontend/public/Level%202%20SS/Frieghter%20Result.png.png)
 
 ### xBull Wallet Connection
-![xBull Wallet Connection](public/Level%202%20SS/xBull%20Wallet%20Connection.png.png)
+![xBull Wallet Connection](frontend/public/Level%202%20SS/xBull%20Wallet%20Connection.png.png)
 
 ### xBull Transaction Confirmation
-![xBull Confirmation](public/Level%202%20SS/xBull%20Confirmation.png.png)
+![xBull Confirmation](frontend/public/Level%202%20SS/xBull%20Confirmation.png.png)
 
 ### xBull Vote Result
-![xBull Result](public/Level%202%20SS/xBull%20Result.png.png)
+![xBull Result](frontend/public/Level%202%20SS/xBull%20Result.png.png)
 
 ---
 
